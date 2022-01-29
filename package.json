@@ -1,0 +1,23 @@
+{
+  "name": "my-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prod": "vercel --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azeemsajjad7/my-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azeemsajjad7/my-parser/issues"
+  },
+  "homepage": "https://github.com/azeemsajjad7/my-parser#readme",
+  "devDependencies": {
+    "vercel": "^23.1.2"
+  }
+}
